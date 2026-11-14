@@ -1,1 +1,1 @@
-# team-project
+# securesecretary / Flutter app with FastAPI backend
